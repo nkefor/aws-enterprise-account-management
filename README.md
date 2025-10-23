@@ -787,7 +787,7 @@ Built with:
 
 ---
 
-**Built with Claude Code** 🤖 - Enterprise-grade AWS management automation
+** - Enterprise-grade AWS management automation
 
 **Last Updated:** 2025-01-15
 **Version:** 1.0.0
