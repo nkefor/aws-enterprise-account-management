@@ -1,0 +1,20 @@
+# AWS Region
+aws_region = "us-east-1"
+
+# Approved regions for workloads
+approved_regions = ["us-east-1", "us-west-2", "eu-west-1"]
+
+# Security Account Emails
+audit_account_email           = "aws-audit@example.com"
+log_archive_account_email     = "aws-log-archive@example.com"
+security_tooling_account_email = "aws-security@example.com"
+
+# Infrastructure Account Emails
+network_account_email = "aws-network@example.com"
+
+# Tags
+tags = {
+  Organization = "ExampleCorp"
+  ManagedBy    = "Terraform"
+  Contact      = "cloud-team@example.com"
+}
